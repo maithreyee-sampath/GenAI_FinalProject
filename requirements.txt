@@ -1,0 +1,11 @@
+openai>=1.108.1,<3
+python-dotenv
+pandas
+numpy
+faiss-cpu
+chromadb
+langchain
+langchain-openai
+matplotlib
+ipykernel
+jupyter
