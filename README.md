@@ -29,7 +29,8 @@ GenAI_FinalProject/
     01_environment_setup.ipynb    # Environment checks, key loading
     02_data_collection.ipynb      # Product metadata, descriptions, reviews
     03_review_analysis.ipynb      # LLM-based review analysis, JSON outputs
-  (Q3 image generation is implemented in a linked Colab notebook; see Section 4.)
+    (Q3 image generation is implemented in a linked Colab notebook; see Section 5)
+    (Q4 agentic workflow is implemented in a linked Colab notebook; see Section 6)
 
   data/
     metadata/
@@ -486,3 +487,6 @@ Q4 is implemented as a set of Python functions that mirror these agent roles and
 - Reproducibility: all artifacts (JSON, prompts, images, logs) are stored under data/
 
 - Extendable: new models, validators, or comparison methods can plug into the same sequence
+
+**Colab link:**
+`colab link: https://colab.research.google.com/drive/1_1toWD79fdsLMQmtyb22ru3dO7uLunPa#scrollTo=ce0058b6`
